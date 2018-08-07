@@ -33,12 +33,6 @@ public class ListTest {
 		data.add(1);
 
 		System.out.println(getComparedList(data).toString());
-
-		Calendar calendar = Calendar.getInstance();
-		SimpleDateFormat sdf = new SimpleDateFormat("EEE MMM dd HH:mm:ss 'GMT' yyyy",Locale.US);
-		sdf.setTimeZone(TimeZone.getTimeZone("GMT"));
-
-		System.out.println(sdf.parse(sdf.format(calendar.getTime())));
 	}
 }
 
