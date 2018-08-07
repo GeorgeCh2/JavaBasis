@@ -7,7 +7,7 @@ public class BlockingQueueTest{
 
 	/**
 	 * 篮子
-	 * @author zhouzhi@qbb6.com
+	 * @author georgechmr@gmail.com
 	 * @date 2018/7/5 15:42
 	 */
 	public static class Basket {

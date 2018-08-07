@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * ByteArrayOutputStream 测试
  *
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2018/8/7 15:49
  */
 public class ByteArrayOutputStreamTest {

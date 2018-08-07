@@ -5,7 +5,7 @@ import java.io.ByteArrayInputStream;
 /**
  * ByteArrayInputStream 测试
  *
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2018/8/7 14:28
  */
 public class ByteArrayInputStreamTest {

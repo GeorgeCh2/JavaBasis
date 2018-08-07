@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * @author zhouzhi@qbb6.com
+ * @author georgechmr@gmail.com
  * @date 2018/7/17 16:33
  */
 public class ListTest {
