@@ -57,7 +57,7 @@ public class ObjectStreamTest {
 			ObjectInputStream inputStream = new ObjectInputStream(
 							new FileInputStream(TMP_FILE));
 
-			System.out.printf("boolean: %b\n", inputStream.readBoolean());
+//			System.out.printf("boolean: %b\n", inputStream.readBoolean());
 			System.out.printf("byte: %d\n", inputStream.readByte());
 			System.out.printf("char: %c\n", inputStream.readChar());
 			System.out.printf("int: %d\n", inputStream.readInt());
